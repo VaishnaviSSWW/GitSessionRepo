@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1060947446958",
+    "project_id": "clockinclockout-5a721",
+    "storage_bucket": "clockinclockout-5a721.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060947446958:android:2e658eb562ffd9b1dff13f",
+        "android_client_info": {
+          "package_name": "com.vaishnavi_wagh_ssww.ClockInClockOut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060947446958-lell78dcpjm4f7je5lt37jvi361i2mtn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vaishnavi_wagh_ssww.ClockInClockOut",
+            "certificate_hash": "543592d141b3b26d99285a6e191e88e54e4ba5e0"
+          }
+        },
+        {
+          "client_id": "1060947446958-rvckje87ke36h2b1jc3e8adsbniin294.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vaishnavi_wagh_ssww.ClockInClockOut",
+            "certificate_hash": "c331fa57326ef277cfcacd9258f6e54ed3780230"
+          }
+        },
+        {
+          "client_id": "1060947446958-bun1osprpev76c6ldqmmq2phd2ne5fmg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJo2lzHmdeRRKBvoYU1AwEkEp8KZzyFzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1060947446958-bun1osprpev76c6ldqmmq2phd2ne5fmg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
