@@ -4,7 +4,7 @@ import React from 'react'
 const practice = () => {
   return (
     <View>
-      <Text>practice</Text>
+      <Text>practice second time by vaihnavi</Text>
     </View>
   )
 }
