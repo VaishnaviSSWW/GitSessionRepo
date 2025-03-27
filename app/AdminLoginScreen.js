@@ -4,7 +4,7 @@ import React from 'react'
 const AdminLoginScreen = () => {
   return (
     <View>
-      <Text>AdminLoginScreen</Text>
+      <Text>AdminLoginScreen donr by vaishnavi</Text>
     </View>
   )
 }
